@@ -45,15 +45,24 @@ for outer in tweets[0]['result_final']:
 	for j in outer['results'][0]['tags']:
 		var= str(j['tag'])#,j['confidence']
 		
+
 		
 		st = LancasterStemmer() #STEMMER
 		var=st.stem(var) 
+
+		
+		
+		
+
+
+
 		if var in dict:
 			
 			dict[var]=min(int(foo),dict[var])  
 		else:
 			dict[var]=int(foo)	 
 		
+
 	print 
 for i in dict:	
 	
