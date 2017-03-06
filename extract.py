@@ -1,6 +1,8 @@
 import json
 import webbrowser
 
+from nltk.stem.lancaster import LancasterStemmer
+
 def fun(image,fps):
 	x=int(image)
 	pos=x/float(fps)
@@ -24,7 +26,7 @@ f.write(str(tweets[0]['result_final'][0]))
 
 dict={}	
 n=len(tweets[0]['result_final'])
-print "n="+str(n)
+#print "n="+str(n)
 
 cnt=0
 for outer in tweets[0]['result_final']:
@@ -44,17 +46,23 @@ for outer in tweets[0]['result_final']:
 		var= str(j['tag'])#,j['confidence']
 		
 		
-		
-		
-
+		st = LancasterStemmer() #STEMMER
+		var=st.stem(var) 
 		if var in dict:
-			dict[var]=min(int(foo),dict[var])
+			
+			dict[var]=min(int(foo),dict[var])  
 		else:
-			dict[var]=int(foo)	
+			dict[var]=int(foo)	 
 		
 	print 
-print dict	
+for i in dict:	
+	
+	print i, dict[i]
+	
 q=raw_input("Enter a word")
+st = LancasterStemmer() #STEMMER
+q=st.stem(q) 
+
 if q in dict:
 	print dict[q]
 	fun(dict[q],30)
