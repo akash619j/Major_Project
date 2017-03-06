@@ -43,6 +43,10 @@ for outer in tweets[0]['result_final']:
 	for j in outer['results'][0]['tags']:
 		var= str(j['tag'])#,j['confidence']
 		
+		
+		
+		
+
 		if var in dict:
 			dict[var]=min(int(foo),dict[var])
 		else:
