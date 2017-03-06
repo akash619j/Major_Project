@@ -505,3 +505,467 @@ Full stack:
 (/usr/lib/firefox/plugin-container:11427): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
 [Child 11427] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
 [Child 11427] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488806520328	geckodriver	INFO	Listening on 127.0.0.1:50753
+1488806521331	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZpSG83WeTzBC
+1488806521334	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488806521339	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39501
+
+(firefox:13359): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13359): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13359): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13359): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488806522460	Marionette	INFO	Listening on port 39501
+
+(/usr/lib/firefox/plugin-container:13421): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13421): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13421): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13421): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 13421] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 13421] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488806742572	geckodriver	INFO	Listening on 127.0.0.1:37550
+1488806743574	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.j562wwGRGx7x
+1488806743576	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488806743583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34597
+
+(firefox:13533): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13533): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13533): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13533): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488806744811	Marionette	INFO	Listening on port 34597
+
+(/usr/lib/firefox/plugin-container:13596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13596): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13596): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488806785630	geckodriver	INFO	Listening on 127.0.0.1:56324
+1488806786633	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.l6SH39BqZadD
+1488806786635	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488806786641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44777
+
+(firefox:13728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488806787751	Marionette	INFO	Listening on port 44777
+
+(/usr/lib/firefox/plugin-container:13788): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13788): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13788): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13788): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: http://relatedwords.org/js/eventsInit.js, line 70: TypeError: element is undefined
+
+(firefox:13728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488806847719	geckodriver	INFO	Listening on 127.0.0.1:46001
+1488806848722	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IsM3YyPsdADt
+1488806848724	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488806848730	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43798
+
+(firefox:13858): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13858): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13858): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13858): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488806849946	Marionette	INFO	Listening on port 43798
+
+(/usr/lib/firefox/plugin-container:13921): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13921): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13921): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13921): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 13921] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 13921] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 13921] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+(firefox:13533): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13533): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807102468	geckodriver	INFO	Listening on 127.0.0.1:56869
+1488807103462	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.p2XbMNdGxBjp
+1488807103464	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488807103470	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38019
+
+(firefox:14104): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14104): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14104): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14104): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807104705	Marionette	INFO	Listening on port 38019
+
+(/usr/lib/firefox/plugin-container:14166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14166): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14166): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 14166] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14166] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488807182873	geckodriver	INFO	Listening on 127.0.0.1:53672
+1488807183870	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7mAXJIQQbTDE
+1488807183873	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488807183878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33983
+
+(firefox:14349): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14349): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14349): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14349): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807185061	Marionette	INFO	Listening on port 33983
+
+(/usr/lib/firefox/plugin-container:14410): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14410): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14410): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14410): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 14410] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14410] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488807512555	geckodriver	INFO	Listening on 127.0.0.1:44733
+1488807513553	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WgC1p2Mi5M3a
+1488807513555	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488807513561	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38983
+
+(firefox:14657): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14657): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14657): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14657): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807514765	Marionette	INFO	Listening on port 38983
+
+(/usr/lib/firefox/plugin-container:14718): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14718): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14718): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14718): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807725837	geckodriver	INFO	Listening on 127.0.0.1:40884
+1488807726834	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ES9vk3bMSeT6
+1488807726837	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488807726842	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35522
+
+(firefox:15229): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15229): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15229): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15229): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807728091	Marionette	INFO	Listening on port 35522
+
+(/usr/lib/firefox/plugin-container:15291): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15291): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15291): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15291): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 15291] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15291] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488807797729	geckodriver	INFO	Listening on 127.0.0.1:54595
+1488807798725	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LGoAkyf07c8P
+1488807798728	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488807798733	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41092
+
+(firefox:15864): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15864): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15864): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15864): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807799874	Marionette	INFO	Listening on port 41092
+
+(/usr/lib/firefox/plugin-container:15929): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15929): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15929): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15929): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 15929] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15929] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488807910105	geckodriver	INFO	Listening on 127.0.0.1:42364
+1488807911107	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rQ1WvG7foLyk
+1488807911110	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488807911115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44342
+
+(firefox:16142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807912309	Marionette	INFO	Listening on port 44342
+
+(/usr/lib/firefox/plugin-container:16208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 16208] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16208] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488807971589	geckodriver	INFO	Listening on 127.0.0.1:34726
+1488807972584	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VJgYzsp9I0kh
+1488807972587	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488807972592	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41283
+
+(firefox:17127): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17127): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17127): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17127): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488807973721	Marionette	INFO	Listening on port 41283
+
+(/usr/lib/firefox/plugin-container:17190): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17190): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17190): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17190): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 17190] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17190] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808001339	geckodriver	INFO	Listening on 127.0.0.1:58068
+1488808002340	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zn0uSEwffeZ8
+1488808002342	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808002348	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34387
+
+(firefox:17377): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17377): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17377): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17377): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808003513	Marionette	INFO	Listening on port 34387
+
+(/usr/lib/firefox/plugin-container:17443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 17443] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17443] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808075961	geckodriver	INFO	Listening on 127.0.0.1:44094
+1488808076958	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5vWmdy2IiRwM
+1488808076961	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808076966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34199
+
+(firefox:17642): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17642): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17642): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17642): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808078100	Marionette	INFO	Listening on port 34199
+
+(/usr/lib/firefox/plugin-container:17705): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17705): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17705): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17705): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 17705] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17705] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808739208	geckodriver	INFO	Listening on 127.0.0.1:34590
+1488808740210	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uFd7kg0665sy
+1488808740212	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808740216	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43168
+
+(firefox:18448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808741329	Marionette	INFO	Listening on port 43168
+
+(/usr/lib/firefox/plugin-container:18510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18510): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18510): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 18510] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18510] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808757745	geckodriver	INFO	Listening on 127.0.0.1:49999
+1488808758742	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GhZebLbsm4AI
+1488808758743	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808758747	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34372
+
+(firefox:18568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808759841	Marionette	INFO	Listening on port 34372
+
+(/usr/lib/firefox/plugin-container:18629): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18629): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18629): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18629): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 18629] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18629] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808788274	geckodriver	INFO	Listening on 127.0.0.1:43797
+1488808789275	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.c5c45RvSjTvO
+1488808789279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808789286	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37381
+
+(firefox:18735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808790471	Marionette	INFO	Listening on port 37381
+
+(/usr/lib/firefox/plugin-container:18803): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18803): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18803): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18803): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 18803] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18803] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808808579	geckodriver	INFO	Listening on 127.0.0.1:36957
+1488808809582	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WOejVeRz9eES
+1488808809585	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808809590	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40528
+
+(firefox:18864): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18864): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18864): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18864): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808810685	Marionette	INFO	Listening on port 40528
+
+(/usr/lib/firefox/plugin-container:18926): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18926): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18926): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18926): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 18926] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 18926] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808846705	geckodriver	INFO	Listening on 127.0.0.1:35836
+1488808847702	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TGEMIWFpGPgH
+1488808847705	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808847711	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41916
+
+(firefox:19123): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19123): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19123): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19123): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808848819	Marionette	INFO	Listening on port 41916
+
+(/usr/lib/firefox/plugin-container:19191): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19191): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19191): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19191): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 19191] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 19191] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488808861998	geckodriver	INFO	Listening on 127.0.0.1:60719
+1488808862995	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IZ45VPuvBv4Y
+1488808862997	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488808863002	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36198
+
+(firefox:19247): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19247): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19247): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19247): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488808864174	Marionette	INFO	Listening on port 36198
+
+(/usr/lib/firefox/plugin-container:19308): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19308): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19308): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19308): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 19308] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 19308] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1488809045223	geckodriver	INFO	Listening on 127.0.0.1:53505
+1488809046222	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wnjBlAPIk93C
+1488809046225	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488809046231	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42022
+
+(firefox:19634): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19634): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19634): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19634): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488809047391	Marionette	INFO	Listening on port 42022
+
+(/usr/lib/firefox/plugin-container:19699): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19699): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19699): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19699): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 19699] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 19699] ###!!! ABORT: Aborting on channel error.: file /build/firefox-sdnpce/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
